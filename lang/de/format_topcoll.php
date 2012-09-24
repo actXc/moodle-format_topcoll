@@ -42,9 +42,9 @@ $string['topcolltoggle'] = 'Sehen';
 $string['topcollsidewidth'] = '30px';
 
 // Toggle all - Moodle Tracker CONTRIB-3190
-$string['topcollall'] = 'alle thema.';
-$string['topcollopened'] = 'Geöffnet';
-$string['topcollclosed'] = 'Schließen sie';
+$string['topcollall'] = '';
+$string['topcollopened'] = 'Alles Aufklappen';
+$string['topcollclosed'] = 'Alles Zuklappen';
 
 // Moodle 2.0 Enhancement - Moodle Tracker MDL-15252, MDL-21693 & MDL-22056 - http://docs.moodle.org/en/Development:Languages
 // Moodle 2.0 Erweiterung - Moodle Tracker MDL-15252, MDL-21693 & MDL-22056 - http://docs.moodle.org/en/Development:Languages
